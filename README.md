@@ -191,8 +191,6 @@ python connect_memory_with_llm.py          # CLI (needs HF_TOKEN)
 ```
 
 ---
-Questions or want enhancements? Open an issue or extend the scripts directly. Enjoy building with RAG! 🧪
-
 
 
 
